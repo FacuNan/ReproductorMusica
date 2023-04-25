@@ -4,7 +4,7 @@
         "playlist":"rock",
         "artista":"Soda Stereo",
         "nombre" : "De Musica Ligera",
-        "url":"assets/music/rock/1-DeMusicaLigera.mp3",
+        "url":"./assets/music/rock/1-DeMusicaLigera.mp3",
         "duracion":209
     },
     {
@@ -12,7 +12,7 @@
         "playlist":"rock",
         "artista":"Los Prisioneros",
         "nombre" : "El Baile De Los Que Sobran",
-        "url":"assets/music/rock/2-ElBaileDeLosQueSobran.mp3",
+        "url":"./assets/music/rock/2-ElBaileDeLosQueSobran.mp3",
         "duracion":344
     },
     {
@@ -20,7 +20,7 @@
         "playlist":"rock",
         "artista":"Hombres G",
         "nombre" : "Devuelveme a mi chica",
-        "url":"assets/music/rock/3-devuelveme-a-mi-chica.mp3",
+        "url":"./assets/music/rock/3-devuelveme-a-mi-chica.mp3",
         "duracion":198
     },
     {
@@ -28,7 +28,7 @@
         "playlist":"rock",
         "artista":"Enanitos Verdes",
         "nombre" : "Lamento Boliviano",
-        "url":"assets/music/rock/4-lamento-boliviano.mp3",
+        "url":"./assets/music/rock/4-lamento-boliviano.mp3",
         "duracion":200
     },
     {
@@ -36,7 +36,7 @@
         "playlist":"rock",
         "artista":"4 Non Blondes",
         "nombre" : "What`s Up",
-        "url":"assets/music/rock/5-Whats-up.mp3",
+        "url":"/assets/music/rock/5-Whats-up.mp3",
         "duracion":298
     },
 
@@ -45,7 +45,7 @@
         "playlist":"rock",
         "artista":"AC/DC",
         "nombre" : "Back In Black",
-        "url":"assets/music/rock/6-Back-In-Black.mp3",
+        "url":"/ssets/music/rock/6-Back-In-Black.mp3",
         "duracion":254
     },
     {
@@ -53,7 +53,7 @@
         "playlist":"rock",
         "artista":"Bon Jovi",
         "nombre" : "It`s My Life",
-        "url":"assets/music/rock/7-its-my-life.mp3",
+        "url":"/ssets/music/rock/7-its-my-life.mp3",
         "duracion":267
     },
     {
@@ -69,7 +69,7 @@
         "playlist":"rock",
         "artista":"Guns And Roses",
         "nombre" : "November Rain",
-        "url":"assets/music/rock/9-november-rain.mp3",
+        "url":"/ssets/music/rock/9-november-rain.mp3",
         "duracion":547
     },
     {
@@ -77,7 +77,7 @@
         "playlist":"rock",
         "artista":"Aerosmith",
         "nombre" : "Crazy",
-        "url":"assets/music/rock/10-Crazy.mp3",
+        "url":"/ssets/music/rock/10-Crazy.mp3",
         "duracion":375
     },
     {

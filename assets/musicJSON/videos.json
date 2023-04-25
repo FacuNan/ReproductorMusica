@@ -1,0 +1,30 @@
+[
+    
+        {
+            "id":1,
+            "playlist":"Karaoke",
+            "artista":"charly Garcia",
+            "nombre" : "No voy en tren",
+            "url":"./assets/videos/CharlyGarcia.mp4",
+            "duracion":200
+        },
+
+        {
+            "id":2,
+            "playlist":"Karaoke",
+            "artista":"Seru Giran",
+            "nombre" : "raros peinados nuevos",
+            "url":"./assets/videos/Seru-giran.mp4",
+            "duracion":200
+        },
+
+        {
+            "id":3,
+            "playlist":"Karaoke",
+            "artista":"Los piojos",
+            "nombre" : "Bicho de ciudad",
+            "url":"./assets/videos/Bicho-de-ciudad.mp4",
+            "duracion":200
+        }
+    
+]

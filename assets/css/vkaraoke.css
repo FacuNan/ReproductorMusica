@@ -1,0 +1,105 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.video {
+    background-image: url("https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/278821-karaoke.jpg?tf=1200x");
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.capa {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+    display:flex;
+
+}
+
+.slide {
+    border: solid 2px white;
+    height: 100vh;
+    width: 20%;
+}
+
+.slide_title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:10px;
+    border-bottom: solid 1px white;
+}
+
+.slide_title img{
+    border-radius: 50%;
+}
+
+.slide h2{
+    color:white;
+}
+.karaokes a{
+    color:white;
+}
+.karaoke {
+    border-bottom: solid 1px white;
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.play-music{
+    display:none;
+}
+
+.karaoke:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+    cursor:pointer;
+}
+
+.karaoke:hover .play-music{
+    display:flex;
+}
+
+.karaoke:hover a{
+    display:none;
+}
+
+.videos{
+    position:relative;
+    width:80%;
+    height:100vh;
+}
+.titulo{
+    width: 100%;
+    border-bottom: 1px solid white;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.titulo p{
+color: white;
+}
+
+.video_karaoke{
+    position:absolute;
+    width: 99.2%;
+    height:calc(100vh - 55px);
+    display: flex;
+   align-items: center;
+
+}
+
+.reproductor{
+    width:800px;
+    height:calc(100vh- 55px);
+}

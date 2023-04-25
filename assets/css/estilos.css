@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family: 'Tenali Ramakrishna', sans-serif;
 }
+
+
 .contenedor{
     background: linear-gradient(to right, rgba(2, 2, 2, 0.726) 15%, rgba(8, 8, 8, 0.829)), url(../img/fondo.jpg);
     height: 100vh;
@@ -271,6 +273,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width:100%;
 }
 .controles{
     display: flex;
